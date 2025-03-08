@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /private/
+Allow: /index.html
+Sitemap: https://modern-hs.w3spaces.com/sitemap.xml
